@@ -1,0 +1,18 @@
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("menu_icon.svg");
+}
+
+.custom-toggler.navbar-toggler {
+  border-color: rgb(29, 165, 207);
+  border-width: 2px;
+} 
+
+@media only screen and (max-width: 1000px) {
+    .change-spacing-mobile {
+    padding-top: 15px;
+    
+}
+}
+
+
+
